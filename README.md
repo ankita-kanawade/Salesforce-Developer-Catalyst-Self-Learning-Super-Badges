@@ -2,6 +2,8 @@
 
 The SmartBridge Salesforce project is a customized CRM application tailored for the wholesale rice mill industry. The application enables seamless management of rice production, sales, and customer interactions. It offers features such as daily tracking of rice production, sales, customer data, and real-time reporting, improving efficiency and decision-making for rice mill owners.
 
+![CRM Application Result](https://github.com/ankita-kanawade/a-crm-application-for-wholesale-rice-mill/blob/main/Results.png)
+
 ## Key Features
 
 1. **Custom Object Design:**
@@ -159,6 +161,3 @@ Dashboards visualize data from reports.
 ## Conclusion
 
 The CRM application developed for our wholesale rice mill revolutionized our operations, customer relationships, and data insights. It enabled automation, enhanced user experience, and improved decision-making through powerful reporting and analytics features.
-
-### Result Image:
-![CRM Application Result](https://github.com/ankita-kanawade/a-crm-application-for-wholesale-rice-mill/blob/main/Results.png)
