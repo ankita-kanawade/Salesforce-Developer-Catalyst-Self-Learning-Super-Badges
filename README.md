@@ -161,4 +161,4 @@ Dashboards visualize data from reports.
 The CRM application developed for our wholesale rice mill revolutionized our operations, customer relationships, and data insights. It enabled automation, enhanced user experience, and improved decision-making through powerful reporting and analytics features.
 
 ### Result Image:
-![CRM Application Result](result.jpg)
+![CRM Application Result](https://github.com/ankita-kanawade/a-crm-application-for-wholesale-rice-mill/blob/main/Results.png)
